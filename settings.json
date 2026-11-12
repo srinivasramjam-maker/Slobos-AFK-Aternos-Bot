@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "applemacbook.aternos.me",
+    "port": 25624,
     "version": "",
     "try-creative": false
   },
